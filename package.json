@@ -29,5 +29,6 @@
     "lodash.throttle": "^4.1.1",
     "simplelightbox": "^2.10.3"
   },
-  "browserslist": "> 0.5%, last 2 versions, not dead"
+  "browserslist": "> 0.5%, last 2 versions, not dead",
+  "terminal.integrated.shell.windows": "C:\\Program Files\\Git\\bin\\bash.exe"
 }
